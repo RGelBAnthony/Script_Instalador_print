@@ -1,0 +1,3 @@
+Dirección IP del equipo: 192.168.192.1 
+Dirección IP truncada: 192.168.192. 
+Impresora encontrada: Printer6 
